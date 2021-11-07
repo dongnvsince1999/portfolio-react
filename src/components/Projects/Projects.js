@@ -23,7 +23,6 @@ function Projects() {
         </svg>
       </div>
 
-
       <div className="ProjectWrapper" id="projects">
         <div className="Container">
           <div className="SectionTitle"><span style={{ borderBottom: "3px solid #0068ff" }}>Projects </span> & Contributions

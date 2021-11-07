@@ -19,7 +19,11 @@ export const NavLink = styled(ScrollLink)`
   color: rgb(119, 119, 121);
   display: flex;
   font-size: 1.2rem;
-
+  display: block;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
   align-items: center;
   height: 100%;
   cursor: pointer;
@@ -52,7 +56,7 @@ export const NavMenu = styled.div`
   align-items: center;
   margin-right: -24px;
   border-bottom: 1px solid #c4c4c4;
-flex: 0.8;
+flex: 0.7;
   .menu-item + .menu-item {
     margin-left: 1rem;
   }
