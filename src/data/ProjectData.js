@@ -23,7 +23,7 @@ export const ProjectList = [
     description:
       "Vietnamese version of FolioReader-Android with many additional feature that help reading EPUB moreeasily and intuitively for Vietnamese users like dictionary, direct translating, ...",
     tech_stack: "Java, Kotlin, SQLite",
-    github_url: "https://github.com/gurupawar/portfolio-react",
+    github_url: "https://github.com/dongnvsince1999/FolioReader-Android",
   },
   {
     img: "https://i.imgur.com/5FnRzQ0.png",
@@ -31,8 +31,8 @@ export const ProjectList = [
     description:
       "My portfolio.",
     tech_stack: "ReactJS, Vercel",
-    github_url: "https://github.com/gurupawar/portfolio-react",
-    demo_url: "https://gportfolio.vercel.app/",
+    github_url: "https://github.com/dongnvsince1999/portfolio-react",
+    demo_url: "https://portfolio-react-eight-orpin.vercel.app/",
   },
   {
     img: "https://i.imgur.com/R4rbUXz.jpg",
@@ -49,6 +49,8 @@ export const ProjectList = [
       "A plugin for CKEditor4 that allows user create various math formulas quickly with frendly and intuitive UI. (CKEditor4 is a WYSIWYG HTML Editor open source)",
     tech_stack: "ES5, HTML, CSS.",
     github_url: "https://github.com/dongnvsince1999/nvd-mathematical-formulas",
+    demo_url: "https://ckeditor.com/cke4/addon/nvd_math",
+
   },
 ];
 

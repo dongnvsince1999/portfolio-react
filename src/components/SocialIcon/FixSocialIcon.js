@@ -30,7 +30,7 @@ function FixSocialIcon() {
   return (
     <Social className="main-menu">
       <li className="nav-li">
-        <a href="https://github.com/gurupawar/"
+        <a href="https://github.com/dongnvsince1999/"
           target="_blank"
           className="nav-link"
           rel="noopener noreferrer">
@@ -46,7 +46,7 @@ function FixSocialIcon() {
 
       <li className="nav-li">
         <a
-          href="https://github.com/gurupawar/"
+          href="mailto:dongnv.since1999@gmail.com"
           target="_blank"
           className="nav-link"
           rel="noopener noreferrer">
@@ -61,7 +61,7 @@ function FixSocialIcon() {
 
       <li className="nav-li">
         <a
-          href="https://github.com/gurupawar/"
+          href="https://www.facebook.com/profile.php?id=100024742350400"
           target="_blank"
 
           rel="noopener noreferrer">

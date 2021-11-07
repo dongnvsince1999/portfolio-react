@@ -18,14 +18,13 @@ export const Email = styled.div`
 
   @media (min-width: 576px) {
     span {
-      font-size: 1.5rem;
+      font-size: 1.2rem;
     }
   }
   @media (min-width: 992px) {
     flex-direction: row;
     span {
       margin-bottom: 0;
-      font-size: 3rem;
     }
   }
 `;

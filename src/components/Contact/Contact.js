@@ -5,7 +5,7 @@ function Contact() {
   return (
     <ContactWrapper id="contact">
       <div className="Container">
-        <div className="SectionTitle">Get In Touch</div>
+        <div className="SectionTitle" style={{ marginBottom: "16px" }}> <div style={{ display: "inline", borderBottom: "3px solid #0068ff" }}>Get In</div> Touch</div>
         <div className="BigCard">
           <Email>
             <span>dongnv.since1999@gmail.com</span>

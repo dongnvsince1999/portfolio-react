@@ -48,7 +48,7 @@ function ProjectCard() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Demo ➜
+                  Link ➜
                 </a>
                 }
               </BtnGroup>

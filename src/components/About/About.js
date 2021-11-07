@@ -14,14 +14,14 @@ function About() {
   return (
     <ContactWrapper id="about">
       <div className="Container">
-        <div className="SectionTitle" style = {{marginBottom: "1rem"}}><span style={{ borderBottom: "3px solid #0068ff" }}>About </span> me</div>
+        <div className="SectionTitle" style={{ marginBottom: "1rem" }}><span style={{ borderBottom: "3px solid #0068ff" }}>About </span> me</div>
         <div className="BigCard">
           <Image
             src={profile}
             alt="man-svgrepo"
           />
           <div className="AboutBio">
-            Hello! My name is <strong>Nguyen Van Dong</strong>. I am currently final year student of <b>University of Information Technologies  </b>
+            Hello! My name is <strong>Nguyen Van Dong</strong>.  I have one year of hands-on experience efficiently coding websites using modern HTML, CSS, JavaScript and relative frameworks. In addition to my knowledge base, I actively seek out new technologies and stay up-to-date on industry trends and advancements.
           </div>
           <div className="AboutBio tagline2">
             I have become confident using the following technologies.

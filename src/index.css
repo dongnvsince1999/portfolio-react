@@ -112,11 +112,11 @@ video {
 }
 
 .BigCard {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  padding-right: 2rem;
-  padding-left: 2rem;
-  border-radius: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-right: 1rem;
+  padding-left: 1rem;
+  border-radius: 10px;
   display: flex;
   flex-direction: column;
   background: #fff;
@@ -127,7 +127,7 @@ video {
 
 .AboutBio,
 .tagline2 {
-  text-align: center;
+  text-align: justify;
   max-width: 650px;
   margin: 0 auto;
   color: #151418;
