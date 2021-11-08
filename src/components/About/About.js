@@ -21,7 +21,7 @@ function About() {
             alt="man-svgrepo"
           />
           <div className="AboutBio">
-            Hello! My name is <strong>Nguyen Van Dong</strong>.  I have one year of hands-on experience efficiently coding websites using modern HTML, CSS, JavaScript and relative frameworks. In addition to my knowledge base, I actively seek out new technologies and stay up-to-date on industry trends and advancements.
+            Hello! My name is <strong>Nguyen Van Dong</strong>.  I have two years of hands-on experience efficiently coding websites using modern HTML, CSS, JavaScript and relative frameworks. In addition to my knowledge base, I actively seek out new technologies and stay up-to-date on industry trends and advancements.
           </div>
           <div className="AboutBio tagline2">
             I have become confident using the following technologies.

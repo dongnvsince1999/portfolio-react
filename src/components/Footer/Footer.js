@@ -36,8 +36,8 @@ export default class Footer extends React.Component {
                                             Contact
                                         </h5>
                                         <ul>
-                                            <li> <i class="fas fa-envelope fa-flip-horizontal" style={{ marginRight: "5px", marginBottom: "5px" }}></i>Email: bht.cnpm.uit@gmail.com </li>
-                                            <li> <i class="fas fa-phone fa-flip-horizontal" style={{ marginRight: "5px" }}></i>Hotline: (010) 1234 4321 </li>
+                                            <li> <i class="fas fa-envelope fa-flip-horizontal" style={{ marginRight: "5px", marginBottom: "5px" }}></i>Email: dongnv.since1999@gmail.com </li>
+                                            <li> <i class="fas fa-phone fa-flip-horizontal" style={{ marginRight: "5px" }}></i>Phone number: 036 507 1855 </li>
                                         </ul>
                                     </div>
                                 </div>

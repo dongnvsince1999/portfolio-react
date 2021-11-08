@@ -1,4 +1,8 @@
 // --------------------------------------- Project List
+import img from '../assets/figma.svg';
+import azure from '../assets/azure.png';
+import ai from '../assets/ai.png';
+import ps from '../assets/ps.png';
 
 export const ProjectList = [
   {
@@ -57,7 +61,10 @@ export const ProjectList = [
 // --------------------------------------- Skills
 
 export const stackList = [
-
+  {
+    img: "https://gurupawar.github.io/portfolio/assets/skill/react.svg",
+    name: "ReactJS",
+  },
   {
     img: "https://gurupawar.github.io/portfolio/assets/skill/html5.svg",
     name: "HTML",
@@ -70,17 +77,26 @@ export const stackList = [
     img: "https://gurupawar.github.io/portfolio/assets/skill/javascript.svg",
     name: "JavaScript",
   },
-  {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/css3.svg",
-    name: "ReactJS",
-  },
-  {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/javascript.svg",
-    name: "JavaScript",
-  },
+
+
   {
     img: "https://gurupawar.github.io/portfolio/assets/skill/bootstrap.svg",
     name: "Bootstrap",
+  },
+  {
+    img: img,
+    name: "Figma",
+  },
+  {
+    img: azure,
+    name: "Azure DepOps",
+  },
+  {
+    img: ai,
+    name: "Illustrator",
+  }, {
+    img: ps,
+    name: "Photoshop",
   },
   {
     img: "https://gurupawar.github.io/portfolio/assets/skill/sass.svg",
