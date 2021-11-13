@@ -22,7 +22,7 @@ const Header = ({ toggle }) => {
             </NavLink>
           </NavMenu>
         </div>
-        <NavBtn>
+        {/* <NavBtn>
           <a
             className="btn SecondarBtn" style={{ boxShadow: "none", padding: "10px 1rem", fontSize: "17px" }}
             href="https://github.com/gurupawar/"
@@ -31,7 +31,7 @@ const Header = ({ toggle }) => {
           >
         My resume >>
           </a>
-        </NavBtn>
+        </NavBtn> */}
         <Bars onClick={toggle} />
       </Nav>
     </div >
