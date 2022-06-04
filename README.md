@@ -16,4 +16,4 @@ Open http://localhost:3000 to view it in the browser.
 
 If you like this and want show your support, just star it.
 
-Designed and coded by: [Tesla](https://github.com/dongnvsince1999)
+Designed and coded by: [Neil](https://github.com/dongnvsince1999)
